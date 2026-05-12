@@ -36,3 +36,21 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## 🚨 Alerts
+
+Alerts are triggered when sound exceeds defined thresholds or when noise is sustained over a period of time.
+
+Notifications can be sent via:
+- Email
+- Slack
+- Telegram (optional)
+
+---
+## 📈 Grafana Dashboard
+
+The dashboard visualizes real-time sound levels and historical noise trends from the monitored room.
+
+![Grafana Dashboard](images/grafana-dashboard.png)
