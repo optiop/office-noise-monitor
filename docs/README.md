@@ -7,7 +7,7 @@ A real-time sound monitoring system that captures audio from a room, converts it
 ## 🚀 Goal
 
 - Measure sound levels in real-time
-- Convert audio into dB loudness metrics
+- Convert audio into LUFS loudness metrics
 - Store metrics as time-series data
 - Visualize data in Grafana
 - Trigger alerts for loud environments
